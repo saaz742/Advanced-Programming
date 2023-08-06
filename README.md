@@ -13,5 +13,10 @@ Advanced programming course (java)
       - 3 - Soccer
       - 4 - Footballer robots
       - 5 - Collusion
-  - HW2
+        
+  - [HW2](https://github.com/saaz742/Advanced-Programming/blob/main/Exercises/HW2/%D8%AA%D9%85%D8%B1%DB%8C%D9%86%20%D8%AF%D9%88%D9%85.pdf)
+      - 1 - Bank
+      - 2 - Chess
+      - 3 - OS
+        
   - HW3   
