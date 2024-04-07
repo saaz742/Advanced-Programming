@@ -19,4 +19,8 @@ Advanced programming course (java)
       - 2 - Chess
       - 3 - OS
         
-  - HW3   
+  - [HW3]
+      - Graphic Chess
+      - Generic Data
+      - Space Invaders
+      - DNS- Client/Server Bank
