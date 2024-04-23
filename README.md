@@ -20,7 +20,7 @@ Advanced programming course (java)
       - 3 - OS
         
   - [HW3]()
-      - Graphical Chess
+      - [Graphical Chess](https://github.com/saaz742/Chess/)
+      - [Graphical Space Invaders](https://github.com/saaz742/Space-Invaders)
       - Generic Data
-      - Space Invaders
       - DNS- Client/Server Bank
