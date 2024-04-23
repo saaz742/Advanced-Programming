@@ -6,7 +6,7 @@ Dr. Mostafazadeh
 
 Advanced programming course (java)
 
-## Exercises
+## [Exercises](https://github.com/saaz742/Advanced-Programming/tree/main/Exercises)
   -  [HW1](https://github.com/saaz742/Advanced-Programming/blob/main/Exercises/HW1/%D8%AA%D9%85%D8%B1%DB%8C%D9%86%20%D8%A7%D9%88%D9%84.pdf)
       - 1 - Symbol design
       - 2 - Disciplinary Committee
@@ -24,3 +24,9 @@ Advanced programming course (java)
       - [Graphical Space Invaders](https://github.com/saaz742/Space-Invaders)
       - Generic Data
       - DNS- Client/Server Bank
+        
+## [Slide](https://github.com/saaz742/Advanced-Programming/tree/main/Slide)
+
+## [Example](https://github.com/saaz742/Advanced-Programming/tree/main/example)
+
+## [Exam](https://github.com/saaz742/Advanced-Programming/tree/main/Exams)
